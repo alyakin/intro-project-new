@@ -1,10 +1,18 @@
 .bottom-half {
     width: 700px;
     height: 500px;
+    background-color: #fff;
+    float: left;
+    margin-top: 525px;
+    margin-left: 25px;
 }
 
 .gray-background {
     width: 750px;
     height: 1050px;
     background-color: lightgray;
+}
+
+#header h1 {
+    
 }
